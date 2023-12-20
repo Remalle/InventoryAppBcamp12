@@ -1,0 +1,14 @@
+/Users/remalle/Documents/Work/Multiverse/VS Code /Final Projects/Bootcamp Week 12 Final/bin/Debug/net6.0/Bootcamp week 12 Final
+/Users/remalle/Documents/Work/Multiverse/VS Code /Final Projects/Bootcamp Week 12 Final/bin/Debug/net6.0/Bootcamp week 12 Final.deps.json
+/Users/remalle/Documents/Work/Multiverse/VS Code /Final Projects/Bootcamp Week 12 Final/bin/Debug/net6.0/Bootcamp week 12 Final.runtimeconfig.json
+/Users/remalle/Documents/Work/Multiverse/VS Code /Final Projects/Bootcamp Week 12 Final/bin/Debug/net6.0/Bootcamp week 12 Final.dll
+/Users/remalle/Documents/Work/Multiverse/VS Code /Final Projects/Bootcamp Week 12 Final/bin/Debug/net6.0/Bootcamp week 12 Final.pdb
+/Users/remalle/Documents/Work/Multiverse/VS Code /Final Projects/Bootcamp Week 12 Final/obj/Debug/net6.0/Bootcamp week 12 Final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/remalle/Documents/Work/Multiverse/VS Code /Final Projects/Bootcamp Week 12 Final/obj/Debug/net6.0/Bootcamp week 12 Final.AssemblyInfoInputs.cache
+/Users/remalle/Documents/Work/Multiverse/VS Code /Final Projects/Bootcamp Week 12 Final/obj/Debug/net6.0/Bootcamp week 12 Final.AssemblyInfo.cs
+/Users/remalle/Documents/Work/Multiverse/VS Code /Final Projects/Bootcamp Week 12 Final/obj/Debug/net6.0/Bootcamp week 12 Final.csproj.CoreCompileInputs.cache
+/Users/remalle/Documents/Work/Multiverse/VS Code /Final Projects/Bootcamp Week 12 Final/obj/Debug/net6.0/Bootcamp week 12 Final.dll
+/Users/remalle/Documents/Work/Multiverse/VS Code /Final Projects/Bootcamp Week 12 Final/obj/Debug/net6.0/refint/Bootcamp week 12 Final.dll
+/Users/remalle/Documents/Work/Multiverse/VS Code /Final Projects/Bootcamp Week 12 Final/obj/Debug/net6.0/Bootcamp week 12 Final.pdb
+/Users/remalle/Documents/Work/Multiverse/VS Code /Final Projects/Bootcamp Week 12 Final/obj/Debug/net6.0/Bootcamp week 12 Final.genruntimeconfig.cache
+/Users/remalle/Documents/Work/Multiverse/VS Code /Final Projects/Bootcamp Week 12 Final/obj/Debug/net6.0/ref/Bootcamp week 12 Final.dll
